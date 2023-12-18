@@ -1,0 +1,13 @@
+.container .row .col{
+    background: rgb(44, 176, 228);
+    color: whitesmoke;
+    margin-top: 10%;
+    text-align: center;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.container .row .col label {
+    color: whitesmoke;
+    font-size: 17px;
+}
