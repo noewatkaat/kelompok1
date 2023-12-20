@@ -13,6 +13,9 @@
   <body>
     <h1 class="text-center">PROVINSI MALUKU </h1>
     <h2 class="text-center">KECAMATAN DI KOTA AMBON</h2>
+    <div class="d-flex justify-content-center align-items-center mt-5">
+        <img width='350px' src="/assets/img/1.png" alt="">
+    </div>
     <br>
     <center>
       <a href="<?= base_url('users/index') ?>" class="btn btn-sm btn-transparent">Klik untuk melihat tabel</a>
